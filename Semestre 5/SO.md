@@ -146,7 +146,7 @@ Múltiplas Filas
 - Tabela com Thread versus Processo define a fila em que a Thread entra
 	- Prioridade 0 - Zero Page Threads: processo que zera memória RAM
 
-![windows|500](Pasted image 20220224115419.png)
+![windows|500]("Pasted image 20220224115419.png")
 
 - Thread pode ir para uma fila de maior prioridade quando é desbloqueada
 	- por dispositivo I/O (Disco, Teclado, Placa de Som)

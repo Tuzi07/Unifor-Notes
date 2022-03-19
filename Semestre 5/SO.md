@@ -12,7 +12,7 @@
 - Sistema de arquivos (enxergar o disco de forma logica ao inves de fisica)
 - Interface Gráfica
 - Interface de Programação - API
-	- System Calls
+	- System Calls TUZIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 Drivers: extensão do SO
 

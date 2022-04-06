@@ -358,8 +358,8 @@ balance++;
 panel = (panel + 1) % 4;
 ```
 
-- podemos fazer um painel para cada região crítica
-	- se isso não for feito, uma Thread que não usa a região crítica pode bloquear outra thread de usar 
+- o primeiro da fila bloqueia todos os próximos
+	- ou caga ou libera a moita
 	
 ##### Algoritmo de Peterson
 ```C
